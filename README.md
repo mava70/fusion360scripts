@@ -19,3 +19,7 @@ tolerance_to_add can be positive or negative all Thread will be increased or dec
 username is your username in the system
 
 The script create a set of duplicated xml files of all system thread but with increased dimeter all new as "RESIZED" in the "Thread Type" name
+
+the script is based on the following Autodesk Knowledge library:
+
+https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Custom-Threads-in-Fusion-360.html?_ga=2.135745329.1088301858.1676143928-1745511642.1675102800
