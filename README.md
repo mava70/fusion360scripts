@@ -12,6 +12,7 @@ hole downsizing, please configure the following variable in the file before run:
 tolerance_to_add=0.5
 
 #your pc username 
+
 username='myusername'
 
 tolerance_to_add can be positive or negative all Thread will be increased or decreased by this amount value must be mm, in will be calculated accordingly
