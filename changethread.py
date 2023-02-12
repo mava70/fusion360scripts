@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 #how bigger os smaller (negative) holes should be in mm
 tolerance_to_add=0.5
 #your pc username 
-username='mvalenti'
+username='myusername'
 
 # list all directory
 import os
