@@ -8,6 +8,7 @@ this script automate the change of diameter of all xml files of fusion 360 defin
 hole downsizing, please configure the following variable in the file before run:
 
 #how bigger os smaller (negative) holes should be in mm
+
 tolerance_to_add=0.5
 #your pc username 
 username='myusername'
